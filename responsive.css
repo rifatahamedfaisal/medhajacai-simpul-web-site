@@ -1,0 +1,251 @@
+@media screen and (max-width:576px) {
+    .row{
+        margin: 0px 20px;
+    }
+    .header{
+        width: 98%;
+    }
+     .nav_title h3{
+        font-size: 20px;
+     }
+     .header_slaider_section{
+        height: 500px;
+     }
+     .slaider{
+        padding-top: 80px;
+     }
+     .slaider h2{
+        font-size: 23px;
+        width: 90%;
+        margin: auto;
+     }
+     .slaider p{
+        font-size: 15px;
+        width: 94%;
+        margin: auto;
+        margin-top: 20px;
+    }
+    .all_exam{
+        padding: 10px 20px;
+        font-size: 15px;
+    }
+    .exam_notification{
+        padding: 10px 15px;
+        font-size: 15px;
+
+    }
+    /* main part start  */
+    .main_frist_section{
+        width: 80%;
+        margin-top: -80px;
+        margin-left: 40px;
+        padding-left: 30px;
+        padding-right: -30px;
+    }
+    .frist_sec_container{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        margin-left: 0px;
+        gap: 10px;
+    }
+    .single_container{
+        margin-top: 20px;
+    }
+    .single_container h2{
+        font-size: 20px;
+    }
+    .single_container p{
+        font-size: 15px;
+    }
+    .second_sec_container{
+        grid-template-columns: repeat(2,1fr);
+        justify-content: space-between;
+        margin-left: -50px;
+        margin-top: 20px;
+    }
+    .single_info h3{
+        font-size: 15px;
+    }
+    .single_info img{
+        width: 160px;
+        padding: 0px 10px 0px 10px;
+    }
+    .help_line_sec{
+        width: 90%;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .help_line{
+        grid-template-columns: repeat(1,1fr);
+    }
+    .help_single_part{
+        padding: 10px 0px;
+        padding-left: 10px;
+        width: 100%;
+    }
+    .help_single_part h2{
+        font-size: 20px;
+    }
+    .help_single_part p{
+        font-size: 15px;
+    }
+    .help_single_part h3{
+        font-size: 18px;
+    }
+    .single_group{
+        width: 100%;
+    }
+    .single_group h2{
+        font-size: 20px;
+        margin-top: -20px;
+    }
+    .single_group_3{
+        width: 100%;
+    }
+    .free_video{
+        width: 100%;
+    }
+   
+    .free_video_part h2{
+        font-size: 20px;
+    }
+    /* .massage_section{
+        width: 100%;
+    } */
+
+    .details_part{
+        width: 90%;
+        margin: auto;
+    }
+    .image_part{
+        padding-bottom: 40px;
+    }
+    .main_input_part{
+        grid-template-columns: repeat(1,1fr);
+        justify-content: center;
+        align-items: center;
+    }
+    .invest_sec{
+        width: 99%;
+    }
+    .inbest h2{
+        font-size: 30px;
+        /* margin-left: -50px; */
+    }
+    .invest_container{
+        width: 100%;
+        margin-left: -20px;
+    }
+    .invest_catagory{
+        grid-template-columns: repeat(2,1fr);
+    }
+    .footer{
+        width: 100%;
+    }
+    .footer_container{
+        grid-template-columns: repeat(3,1fr);
+    }
+    .footer_single_part_1{
+        width:160px;
+        margin-left: -60px;
+    }
+    .footer_single_part_1 h2{
+        font-size: 20px;
+    }
+    .footer_menu_part{
+        width: 40px;
+        margin-left: -20px;
+        margin-top: 20px;
+    }
+    .FAQ_part{
+        margin-left: -70px;
+        margin-top: 20px;
+    }
+    .pay_with_part{
+        margin-left: -F40px;
+    }
+    .footer_small{
+        margin-top: 30px;
+    }
+   
+   
+}
+
+
+
+
+
+
+@media screen and (min-width:577px) and (max-width:992px) {
+
+    .row{
+        margin: 0px 20px;
+    }
+    .slaider h2{
+        width: 100%;
+    }
+    .slaider p{
+        width: 90%;
+        margin: auto;
+
+    }
+    .exam_notification{
+        padding: 10px 50px;
+    }
+    .main_frist_section{
+        width: 80%;
+        margin: auto;
+        margin-top: -80px;
+    }
+    .single_container {
+        margin-left: -80px;
+    }
+    .single_container h2{
+        font-size: 20px;
+    }
+    .single_container p{
+        font-size: 15px;
+    }
+    .main_second_section {
+        width: 90%;
+        margin: auto;
+        margin-top: -40px;
+    }
+    .help_line_sec{
+        width: 90%;
+        margin: auto;
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+    .details_part{
+        width: 90%;
+        margin: auto;
+    }
+    .inbest{
+        width: 100%;
+        margin: auto;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .invest_sec{
+        width: 500px;
+    }
+    .invest_container{
+        width: 90%;
+        margin: auto;
+    }
+    .invest_catagory{
+       width:100%;
+       margin-left: -40px;
+    }
+    .single_catagory_img img{
+        width: 130px;
+    }
+    .footer_sec{
+        width: 95%;
+        margin: auto;
+    }
+    .footer_single_part_1{
+        width: 200px;
+    }
+}
